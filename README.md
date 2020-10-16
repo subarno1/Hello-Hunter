@@ -1,1 +1,2 @@
-# Hello-Hunter
+# Hello!
+# Welcome to Hunter College!!!
